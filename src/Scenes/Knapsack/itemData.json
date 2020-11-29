@@ -1,0 +1,63 @@
+[
+    {
+        "name": "chest-armor",
+        "path": "chest-armor.png",
+        "value": 100,
+        "weight": 180
+    },
+    { "name": "crossbow", "path": "crossbow.png", "value": 70, "weight": 60 },
+    { "name": "crown", "path": "crown.png", "value": 60, "weight": 28 },
+    { "name": "fire-gem", "path": "fire-gem.png", "value": 60, "weight": 20 },
+    { "name": "gauntlet", "path": "gauntlet.png", "value": 15, "weight": 10 },
+    { "name": "leg-armor", "path": "leg-armor.png", "value": 20, "weight": 20 },
+    {
+        "name": "crystal-growth",
+        "path": "crystal-growth.png",
+        "value": 30,
+        "weight": 20
+    },
+    {
+        "name": "diamond-hilt",
+        "path": "diamond-hilt.png",
+        "value": 80,
+        "weight": 50
+    },
+    {
+        "name": "dragon-shield",
+        "path": "dragon-shield.png",
+        "value": 130,
+        "weight": 80
+    },
+    {
+        "name": "gem-chain",
+        "path": "gem-chain.png",
+        "value": 120,
+        "weight": 12
+    },
+    {
+        "name": "gem-pendant",
+        "path": "gem-pendant.png",
+        "value": 70,
+        "weight": 40
+    },
+    {
+        "name": "heavy-helm",
+        "path": "heavy-helm.png",
+        "value": 80,
+        "weight": 100
+    },
+    {
+        "name": "jeweled-chalice",
+        "path": "jeweled-chalice.png",
+        "value": 128,
+        "weight": 49
+    },
+    { "name": "sharp-axe", "path": "sharp-axe.png", "value": 93, "weight": 59 },
+    {
+        "name": "skull-ring",
+        "path": "skull-ring.png",
+        "value": 125,
+        "weight": 20
+    },
+    { "name": "torc", "path": "torc.png", "value": 200, "weight": 190 }
+]
