@@ -13,7 +13,6 @@ export function setupControls(scene) {
 
     scene.input.keyboard.on("keyup_ESC", (event) => {
         //TODO: Use constant here
-        console.log(scene)
         scene.scene.start("MenuScene")
         stopTimer(scene)
     })

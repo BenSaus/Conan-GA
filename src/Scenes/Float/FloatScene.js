@@ -30,12 +30,8 @@ export default class Scene1 extends Phaser.Scene {
             populationSize: 15,
         })
 
-        console.log("ga:", this.ga)
-
         this.input.keyboard.on("keyup_G", (event) => {
             this.ga.Evolve()
-            // this.text.text = this.ga.GetBestFitnessScore();
-            // console.log("ga:", this.ga);
         })
 
         this._text = this.add.text(20, 100)

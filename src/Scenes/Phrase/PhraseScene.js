@@ -28,7 +28,6 @@ export default class PhraseScene extends Phaser.Scene {
     }
 
     create() {
-        console.log("create")
         this.ga = new GA(
             {
                 selectionFunc: Selection.rouletteWheel,
